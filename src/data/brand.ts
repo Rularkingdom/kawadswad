@@ -7,7 +7,7 @@ export const brand = {
   region: 'Nimar, Madhya Pradesh, India',
   fssai: '21425890001224',
   dietType: '100% Vegetarian',
-  phone: '+91 963097687',
+  phone: '+91 9630976867',
   phoneRaw: '91963097687',
   email: 'info.av.kkswad@gmail.com',
   instagram: 'kawadswad',
