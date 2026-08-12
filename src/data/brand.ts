@@ -8,13 +8,13 @@ export const brand = {
   fssai: '21425890001224',
   dietType: '100% Vegetarian',
   phone: '+91 9630976867',
-  phoneRaw: '91963097687',
+  phoneRaw: '919630976867',
   email: 'info.av.kkswad@gmail.com',
   instagram: 'kawadswad',
   instagramUrl: 'https://www.instagram.com/kawadswad',
   youtube: 'kawadswadudhyog',
   youtubeUrl: 'https://www.youtube.com/@kawadswadudhyog',
-  whatsappUrl: `https://wa.me/91963097687`,
+  whatsappUrl: `https://wa.me/919630976867`,
 } as const;
 
 export const navLinks = [
